@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_03_03_2021_22_01_[Default_Changelist]" date="1614798093669" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_03_2021_22_01_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 03.03.2021 22:01 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/io/github/arabienko/RandomGeneratorDemo.class" />
+    <option name="AFTER_PATH" value="target/classes/io/github/arabienko/RandomGeneratorDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_03_2021_22_01_[Default_Changelist]/RandomGeneratorDemo.class" />
+  </binary>
+</changelist>
